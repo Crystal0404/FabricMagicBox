@@ -1,15 +1,15 @@
 {
 	"schemaVersion": 1,
 	"id": "fabricmagicbox",
-	"version": "${1.0.0}",
+	"version": "${version}",
 	"name": "FabricMagicBox",
-	"description": "复活吧,我的爱盒!",
+	"description": "复活吧,我的爱盒！",
 	"authors": [
 		"Crystal0404"
 	],
 	"contact": {
 		"homepage": "https://github.com/Crystal0404/",
-		"sources": "https://github.com/Crystal0404/FabricMagicBox"
+		"sources": "https://github.com/Crystal0404/FabricMagicBox/"
 	},
 	"license": "CC BY-NC-SA 4.0",
 	"icon": "assets/fabricmagicbox/icon.png",
