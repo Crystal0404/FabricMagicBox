@@ -8,10 +8,10 @@
 		"Crystal0404"
 	],
 	"contact": {
-		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"homepage": "https://github.com/Crystal0404/",
+		"sources": "https://github.com/Crystal0404/FabricMagicBox"
 	},
-	"license": "CC0-1.0",
+	"license": "CC BY-NC-SA 4.0",
 	"icon": "assets/fabricmagicbox/icon.png",
 	"environment": "*",
 	"entrypoints": {},
