@@ -1,3 +1,6 @@
+# Crystal Carpet Addition
+CrystalCarpetAddition已发布, 本mod不会再维护
+
 # 这是什么
 
 这是一个Minecraft的fabricmod,移植了1.20.2以下的潜影盒强行类型转换错误,
