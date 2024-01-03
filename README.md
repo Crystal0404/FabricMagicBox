@@ -1,5 +1,5 @@
 # Crystal Carpet Addition
-CrystalCarpetAddition已发布, 本mod不会再维护
+[CrystalCarpetAddition](https://github.com/Crystal0404/CrystalCarpetAddition)已发布, 本mod不会再维护
 
 # 这是什么
 
